@@ -1,0 +1,7 @@
+pyproject.toml
+vat_statement_reader.py
+pdf_reader.egg-info/PKG-INFO
+pdf_reader.egg-info/SOURCES.txt
+pdf_reader.egg-info/dependency_links.txt
+pdf_reader.egg-info/requires.txt
+pdf_reader.egg-info/top_level.txt

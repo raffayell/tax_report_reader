@@ -1,0 +1,2 @@
+camelot-py[cv]>=1.0.0
+ghostscript>=0.7
