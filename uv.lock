@@ -917,7 +917,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "camelot-py", extras = ["cv"], specifier = ">=1.0.0" },
+    { name = "camelot-py", specifier = ">=1.0.0" },
     { name = "ghostscript", specifier = ">=0.7" },
 ]
 
